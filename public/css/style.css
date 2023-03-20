@@ -1,0 +1,21 @@
+img.slider-img{
+    height: 500px;
+}
+.carousel-caption{
+    background: linear-gradient(to right, #fdfdfd85,#35443585,#fdfdfd85);
+    text-align: center;
+}
+.carousel-control-prev
+{
+    background: linear-gradient(to right, #35443585,rgba(255,0,0,0));
+}
+.carousel-control-next{
+    background: linear-gradient(to left, #35443585,rgba(255,0,0,0));
+}
+.trending-image{
+    width: 150px;
+}
+.trending-item{
+    float: left;
+    width: 15%;
+}
